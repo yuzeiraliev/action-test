@@ -6,4 +6,4 @@ if [ "${out}" == "Keep up" ]; then
 else
     echo "==> Test failed."
     exit 1
-
+fi
